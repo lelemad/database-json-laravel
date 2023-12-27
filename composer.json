@@ -1,5 +1,5 @@
 {
-    "name": "alvin0/database-json-laravel",
+    "name": "lelemad/database-json-laravel",
     "description": "Create and manage json databases with Laravel",
     "keywords": ["DatabaseJson", "simple", "json", "flat", "file", "database", "db","laravel"],
     "homepage": "https://github.com/alvin0/DatabaseJsonLaravel",
