@@ -4,6 +4,7 @@
     "keywords": ["DatabaseJson", "simple", "json", "flat", "file", "database", "db","laravel"],
     "homepage": "https://github.com/alvin0/DatabaseJsonLaravel",
     "license": "MIT",
+    "version": "1.0.0",
     "editer": [
         {
             "name": "Alvin",
